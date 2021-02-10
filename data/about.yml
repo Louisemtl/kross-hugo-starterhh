@@ -32,7 +32,7 @@ clients_logo_slider:
   enable: true
   title: Mes clients
   item:
-  - logo: ''
-    URL: ''
   - URL: https://www.google.com/search?q=image&rlz=1C5CHFA_enFR910FR910&sxsrf=ALeKk01V4o7WbW8aNEjVzJEqHvsujVfssw:1612967014693&tbm=isch&source=iu&ictx=1&fir=ZH6PYaivxDOGgM%252C4JlupBqKllMD5M%252C_&vet=1&usg=AI4_-kToevzDIP47fXAsYERKZTZMZlvDvA&sa=X&ved=2ahUKEwj5o8evwt_uAhVRyxoKHbAdBEcQ9QF6BAgGEAE&biw=1440&bih=789#imgrc=ZH6PYaivxDOGgM
     logo: https://www.google.com/search?q=image&rlz=1C5CHFA_enFR910FR910&sxsrf=ALeKk01V4o7WbW8aNEjVzJEqHvsujVfssw:1612967014693&tbm=isch&source=iu&ictx=1&fir=ZH6PYaivxDOGgM%252C4JlupBqKllMD5M%252C_&vet=1&usg=AI4_-kToevzDIP47fXAsYERKZTZMZlvDvA&sa=X&ved=2ahUKEwj5o8evwt_uAhVRyxoKHbAdBEcQ9QF6BAgGEAE&biw=1440&bih=789#imgrc=ZH6PYaivxDOGgM
+  - logo: ''
+    URL: ''
